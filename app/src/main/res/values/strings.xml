@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Button-counter-walling</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="reset">Reset</string>
 </resources>
